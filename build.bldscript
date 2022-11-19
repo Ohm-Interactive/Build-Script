@@ -1,0 +1,1 @@
+run g++ -fdiagnostics-color=always -g D:\programmingLanguages\buildscript\main.cpp -o D:\programmingLanguages\buildscript\main.exe
