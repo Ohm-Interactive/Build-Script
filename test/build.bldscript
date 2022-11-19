@@ -1,1 +1,2 @@
-run g++ -fdiagnostics-color=always -g D:\programmingLanguages\buildscript\main.cpp -o D:\programmingLanguages\buildscript\main.exe
+io write test.txt "susy"
+run g++ -fdiagnostics-color=always -g D:\programmingLanguages\buildscript\test\main.cpp -o D:\programmingLanguages\buildscript\test\main.exe
