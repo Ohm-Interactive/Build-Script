@@ -18,7 +18,8 @@ if, which checks if something is true or not.
 log, which prints something to the screen, it can also take in different levels of logging like debug, warn, and error!
 
 Here is a example of a simple Build Script program.
-```run g++ -fdiagnostics-color=always -g main.cpp -o main.exe
+```
+run g++ -fdiagnostics-color=always -g main.cpp -o main.exe
 variable log = output
 io write log.txt log
 ```
