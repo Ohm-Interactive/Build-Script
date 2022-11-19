@@ -1,4 +1,7 @@
 # Introduction
+![Build Script Logo](https://user-images.githubusercontent.com/81382687/202862082-722453de-24dd-4e61-aa2d-784261a9e4bd.png)
+
+
 Build script is a simple tool that you can use to write scripts that build your applications.
 
 It is easy to learn along with being pretty powerful
