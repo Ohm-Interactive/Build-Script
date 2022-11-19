@@ -1,11 +1,11 @@
-# Build Script
+# Introduction
 Build script is a simple tool that you can use to write scripts that build your applications.
 
 It is easy to learn along with being pretty powerful
 # Basics
 To run a simple command, make a .buildscript file and type in `run python`
 
-When you run the file using python buildscript/main.py (name of your file).buildscript,
+When you run the file using `python buildscript/main.py (name of your file).buildscript`,
 the python terminal should open.
 
 You can already use the run function to perform many tasks liek compiling a C program.
